@@ -1,0 +1,28 @@
+{
+  "name": "Idealium",
+  "short_name": "Idealium",
+  "description": "Solução de IA para vendas e automação inteligente",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#00FF88",
+  "orientation": "portrait-primary",
+  "categories": ["business", "productivity"],
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "scope": "/"
+}
